@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d44ec1f1-e97e-4c7d-8659-43fd3c4506a5}</ProjectGuid>
-    <RootNamespace>ConcurrencyCourse</RootNamespace>
+    <ProjectGuid>{cc6e95f1-4591-45fe-b969-cc5e9978e9e7}</ProjectGuid>
+    <RootNamespace>My11async</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
